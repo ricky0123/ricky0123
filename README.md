@@ -1,6 +1,6 @@
-I'm Ricky, a software developer at the University of Chicago.
+I'm Ricky, a software developer at [Synthflow](https://synthflow.ai/).
 
-Want to work with me? [Get in touch!](mailto:rickycontact9@gmail.com)
+Want to chat? [Get in touch!](mailto:rickycontact9@gmail.com)
 
 <h3>Projects you'll find here...</h3>
 
@@ -13,5 +13,5 @@ Want to work with me? [Get in touch!](mailto:rickycontact9@gmail.com)
 <h3 align="center">Thanks a ton to these sponsors!</h3>
 
 <p align="center">
-<!-- sponsors -->&nbsp;&nbsp;<a href="https://github.com/sundi133"><img src="https://github.com/sundi133.png" width="50px" alt="sundi133" /></a>&nbsp;&nbsp;<a href="https://github.com/lukeocodes"><img src="https://github.com/lukeocodes.png" width="50px" alt="lukeocodes" /></a>&nbsp;&nbsp;<!-- sponsors -->
+<!-- sponsors -->&nbsp;&nbsp;<a href="https://github.com/sundi133"><img src="https://github.com/sundi133.png" width="50px" alt="sundi133" /></a>&nbsp;&nbsp;<a href="https://github.com/lukeocodes"><img src="https://github.com/lukeocodes.png" width="50px" alt="lukeocodes" /></a>&nbsp;&nbsp;<a href="https://github.com/theisof"><img src="https://github.com/theisof.png" width="50px" alt="theisof" /></a>&nbsp;&nbsp;<!-- sponsors -->
 </p>
