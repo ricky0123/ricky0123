@@ -21,5 +21,13 @@ Outside of my work at Synthflow, I am working on the following:
 <h3 align="center">Thanks a ton to these sponsors!</h3>
 
 <p align="center">
-<!-- sponsors -->&nbsp;&nbsp;<a href="https://github.com/sundi133"><img src="https://github.com/sundi133.png" width="50px" alt="sundi133" /></a>&nbsp;&nbsp;<a href="https://github.com/lukeocodes"><img src="https://github.com/lukeocodes.png" width="50px" alt="lukeocodes" /></a>&nbsp;&nbsp;<a href="https://github.com/theisof"><img src="https://github.com/theisof.png" width="50px" alt="theisof" /></a>&nbsp;&nbsp;<!-- sponsors -->
+<!-- sponsors -->
+  &nbsp;&nbsp;<a href="https://github.com/sundi133"><img src="https://github.com/sundi133.png" width="50px" alt="sundi133" /></a>
+  &nbsp;&nbsp;<a href="https://github.com/lukeocodes"><img src="https://github.com/lukeocodes.png" width="50px" alt="lukeocodes" /></a>
+  &nbsp;&nbsp;<a href="https://github.com/theisof"><img src="https://github.com/theisof.png" width="50px" alt="theisof" /></a>
+  &nbsp;&nbsp;<a href="https://github.com/rosscado"><img src="https://github.com/rosscado.png" width="50px" alt="rosscado" /></a>
+  &nbsp;&nbsp;<a href="https://github.com/josephtutera"><img src="https://github.com/josephtutera.png" width="50px" alt="josephtutera" /></a>
+  &nbsp;&nbsp;<a href="https://github.com/shutootaki"><img src="https://github.com/shutootaki.png" width="50px" alt="shutootaki" /></a>
+  &nbsp;&nbsp;
+<!-- sponsors -->
 </p>
